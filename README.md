@@ -30,6 +30,7 @@ It enables loading data from SQL tables into Weka and exporting datasets back to
 ## **3. Java Setup**
 
 Installed **OpenJDK 8u472 (Temurin)**
+Download Link https://adoptium.net/temurin/releases/?version=8
 
 Path:
 
