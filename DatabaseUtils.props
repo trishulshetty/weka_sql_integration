@@ -1,0 +1,16 @@
+# =========================================================
+# Weka SQL Server configuration
+# =========================================================
+
+jdbcDriver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+jdbcURL=jdbc:sqlserver://localhost:1433;databaseName=WekaLab;encrypt=false;trustServerCertificate=true
+
+userName=sa
+password=Admin@123
+
+# =========================================================
+# Optional Weka behavior
+# =========================================================
+nominalNull=?
+stringNull=?
+numericPrecision=10
